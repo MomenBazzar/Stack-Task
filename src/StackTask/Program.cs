@@ -6,15 +6,14 @@ namespace StackTask
     {
         static void Main(string[] args)
         {
-            var stack = new STACK<int>();
-            stack.Push(12);
-            stack.Push(10);
-            stack.Push(35);
-
-            while (stack.Any())
-            {
-                Console.WriteLine(stack.Pop().data);
-            }
+            var stack = new STACK<char>();
+            stack.Push('r');
+            stack.Push('b');
+            stack.Push('q');
+            stack.Pop();
+            stack.Push('h');
+            // stack.Clear();
+            stack.Print();
         }
     }
 }
@@ -57,5 +56,23 @@ public class STACK<T>
         if (this.root != null) this.root = this.root.next;
 
         return peek;
+    }
+
+    public void Clear()
+    {
+        this.root = null;
+    }
+
+    public void Print()
+    {
+        if (!this.Any()) return;
+
+        var node = this.root;
+        while (node != null)
+        {
+            Console.Write(node.data + " ");
+            node = node.next;
+        }
+        
     }
 }
