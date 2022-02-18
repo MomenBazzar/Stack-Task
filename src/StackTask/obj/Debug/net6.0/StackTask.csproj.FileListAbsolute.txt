@@ -1,0 +1,15 @@
+D:\1ME\programing\C# Stack\src\StackTask\bin\Debug\net6.0\StackTask.exe
+D:\1ME\programing\C# Stack\src\StackTask\bin\Debug\net6.0\StackTask.deps.json
+D:\1ME\programing\C# Stack\src\StackTask\bin\Debug\net6.0\StackTask.runtimeconfig.json
+D:\1ME\programing\C# Stack\src\StackTask\bin\Debug\net6.0\StackTask.dll
+D:\1ME\programing\C# Stack\src\StackTask\bin\Debug\net6.0\ref\StackTask.dll
+D:\1ME\programing\C# Stack\src\StackTask\bin\Debug\net6.0\StackTask.pdb
+D:\1ME\programing\C# Stack\src\StackTask\obj\Debug\net6.0\StackTask.csproj.AssemblyReference.cache
+D:\1ME\programing\C# Stack\src\StackTask\obj\Debug\net6.0\StackTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\1ME\programing\C# Stack\src\StackTask\obj\Debug\net6.0\StackTask.AssemblyInfoInputs.cache
+D:\1ME\programing\C# Stack\src\StackTask\obj\Debug\net6.0\StackTask.AssemblyInfo.cs
+D:\1ME\programing\C# Stack\src\StackTask\obj\Debug\net6.0\StackTask.csproj.CoreCompileInputs.cache
+D:\1ME\programing\C# Stack\src\StackTask\obj\Debug\net6.0\StackTask.dll
+D:\1ME\programing\C# Stack\src\StackTask\obj\Debug\net6.0\ref\StackTask.dll
+D:\1ME\programing\C# Stack\src\StackTask\obj\Debug\net6.0\StackTask.pdb
+D:\1ME\programing\C# Stack\src\StackTask\obj\Debug\net6.0\StackTask.genruntimeconfig.cache
